@@ -1,4 +1,4 @@
-1. O que é a ENEC?
+#O que é a ENEC?
 
 
 A Executiva Nacional dos Estudantes de Computação - ENEC, é  o  orgão responsável pela representação de estudantes dos cursos de graduação e pós-graduação na área de computação do Brasil. A ENEC é semelhante a um Centro Academico de todos os curso de computaçao do Brasil, sendo assim através das assembleias da ENEC os estudantes podem levar suas demandas para os cursos, sobre a profissao de TI no Brasil, sobre a situação da educação pública.
